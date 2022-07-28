@@ -1,0 +1,3 @@
+# Museum of Candy Project
+
+The whole idea of this website, it's called Museum of Candy. It's for a fictional Instagram museum. Here is the website that went for sort of a trendy look, minimal light, pastel colors, some nice photos. The site doesn't really say much as far as the content. It's just lorem ipsum actually, aside from this block of of header headers here, but it is very responsive. The site is done with [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics), [Bootstrap](https://getbootstrap.com/), and some styles in [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS).
